@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0912-sort-an-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0148-sort-list) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
