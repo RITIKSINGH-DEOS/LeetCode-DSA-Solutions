@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1122-relative-sort-array) |
 | [1480-running-sum-of-1d-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0148-sort-list) |
 | [0905-sort-array-by-parity](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
