@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1480-running-sum-of-1d-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1929-concatenation-of-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
