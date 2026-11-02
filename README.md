@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0905-sort-array-by-parity](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0905-sort-array-by-parity](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0148-sort-list) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0905-sort-array-by-parity](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Dynamic Programming
@@ -176,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 <!---LeetCode Topics End-->
