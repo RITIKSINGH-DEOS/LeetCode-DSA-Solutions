@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1480-running-sum-of-1d-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
