@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0905-sort-array-by-parity](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -184,5 +186,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
