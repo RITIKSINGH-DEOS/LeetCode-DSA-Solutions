@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/RITIKSINGH-DEOS/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
